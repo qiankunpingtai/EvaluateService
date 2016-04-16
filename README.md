@@ -20,7 +20,7 @@ you can compile the source using Xcode to open the EvaluateService.xcodeproj. If
 
 1.) place it in you Library/Services directory (Hold to the Option key on the Finder's 'Go' menu to find your Library folder.
 
-2.) In System Preferences > Keyboard >  Shortcuts > Services  in the Text section check the checkbox to enable "Evaluate Expressions" click on the right edge of its table row to add a command-key-equivalent. I like to use <Command><Shift>-8(⌘⇧8), which used to be 'Evaluate applescript' before Apple broke 'Evaluate applescript'.
+2.) In System Preferences > Keyboard >  Shortcuts > Services  in the Text section check the checkbox to enable "Evaluate Expressions" click on the right edge of its table row to add a command-key-equivalent. I like to use \<Command>\<Shift>-8(⌘⇧8), which used to be 'Evaluate applescript' before Apple broke 'Evaluate applescript'.
 
 ## To Use:
  
